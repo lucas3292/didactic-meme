@@ -1,4 +1,7 @@
 ECHO est  ativado.
+<<<<<<< HEAD
 
 fazendo essa a restauração desse objeto aqui
 sjsj
+=======
+>>>>>>> a31c28e80b982f36a43a09100d8325d3bf65a01b
