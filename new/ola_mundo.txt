@@ -1,0 +1,4 @@
+ECHO est  ativado.
+
+fazendo essa a restauração desse objeto aqui
+sjsj
